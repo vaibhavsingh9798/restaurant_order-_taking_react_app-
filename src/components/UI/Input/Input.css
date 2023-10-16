@@ -1,0 +1,27 @@
+
+
+.form-data {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+.form-data label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-data input[type="text"],
+.form-data input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+
+
+
+
